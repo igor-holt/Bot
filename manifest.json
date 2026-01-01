@@ -1,0 +1,22 @@
+{
+  "inputs": {
+    "exchange": {
+      "type": "string",
+      "description": "Exchange platform name"
+    },
+    "api": {
+      "type": "string",
+      "description": "API key for exchange"
+    },
+    "secret": {
+      "type": "string",
+      "description": "API secret for exchange"
+    }
+  },
+  "output": {
+    "wallet": {
+      "type": "string",
+      "description": "Wallet address for passive income"
+    }
+  }
+}
