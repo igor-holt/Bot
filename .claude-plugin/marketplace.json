@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "bot",
+  "owner": {
+    "name": "Igor Holt (@invariantx)",
+    "url": "https://github.com/igor-holt"
+  },
+  "description": "Bot experimental/personal project in the Igor Holt (@invariantx) GitHub surface. Lower-profile public straggler included in the Claude Marketplace Manifest Rollout for complete Genesis Conductor / OpenClaw ecosystem coverage.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/igor-holt/Bot",
+  "keywords": [
+    "igor-holt",
+    "invariantx",
+    "bot",
+    "genesis-conductor",
+    "experimental",
+    "openclaw-ecosystem"
+  ],
+  "plugins": [
+    {
+      "name": "bot",
+      "source": "https://github.com/igor-holt/Bot",
+      "description": "Experimental bot project from @invariantx personal repos. Part of the full public surface of Genesis Conductor-related experiments. Install the core professional trio of OpenClaw skills from the primary marketplace for production agent work: clawhub install grok-persistent-state etc.",
+      "version": "1.0.0",
+      "tags": ["bot", "experimental", "genesis-conductor"],
+      "category": "experimental",
+      "homepage": "https://github.com/igor-holt/Bot",
+      "keywords": ["igor holt bot", "@invariantx experimental bot"]
+    }
+  ],
+  "links": {
+    "github": "https://github.com/igor-holt/Bot",
+    "main-marketplace": "https://github.com/igor-holt/openclaw-skills",
+    "x": "https://x.com/invariantx"
+  }
+}
